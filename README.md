@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning how to fix in-depth errors and make trees
 - 💬 Ask me about android, and I will deliver!
 - 📫 How to reach me: 
-    ⁍ TG: r_k87
-    ⁍ Github: Well your on it 😎
+-    ⁍ TG: r_k87
+-    ⁍ Github: Well your on it 😎
 - ⚡ Fun fact: Im a student! I haven't even started college yet 😆
 
 

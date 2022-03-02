@@ -8,6 +8,7 @@
 Here are some ideas to get you started:
 -->
 I only push forwards, this is the way I move
+I love music, and I love coding. Not looking for any CS roles atm xd
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rk134&theme=radical)

@@ -28,7 +28,6 @@
     <a href="https://t.me/rk_134"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
     <a href="rahul-k@bigdi.cc"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
   </p>
-<a href="https://open.spotify.com/user/x0anrc0zrgvdeleh6d7j9q253"><img src="https://spotify-readme-prajjus.vercel.app/api?theme=dark&rainbow=true" alt="Spotify Currently Playing" width="400px"/></a>
 <hr>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rk134&label=Profile%20Views&color=000000&style=flat"> </p>
